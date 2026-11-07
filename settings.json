@@ -1,8 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Atlas",
   "bot-account": {
     "username": "Atlas",
-    "password": "",
     "type": "offline"
   },
   "server": {
@@ -19,22 +18,22 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": "CHANGE_ME"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to InvalidEdits and MubHas Songs!",
-        "I like to play Minecraft!",
-        "Managed and Deployed by Haseeb381 and InvalidUser64!"
+        "I'm a Atlas",
+        "Subscribe to InvalidEdits!",
+        "I like to Code!",
+        "Managed And Deployed by Haseeb381 and InvalidUser64!"
       ]
     },
     "chat-log": true,
