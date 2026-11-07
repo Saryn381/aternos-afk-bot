@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "purebc.aternos.me",
-    "port": 36321,
-    "version": "1.21.10",
+    "ip": "qc64.aternos.me",
+    "port": 27977,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
