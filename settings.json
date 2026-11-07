@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Atlas",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "purebc.aternos.me",
-    "port": 36321,
+    "ip": "qc64.aternos.me",
+    "port": 27977,
     "version": "1.21.10",
     "try-creative": false
   },
@@ -32,8 +32,9 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Subscribe to InvalidEdits!",
+        "I like to play Minecraft!",
+        "Managed and Deployed by Haseeb381 and InvalidUser64!"
       ]
     },
     "chat-log": true,
